@@ -1,0 +1,10 @@
+animales = ["canguro", "cocodrilo", "camello", "cerdo", "cabra"]
+
+for animal in animales:
+    if animal.startswith("c"):
+        print(animal)
+        
+#KATHERINE_ACOSTA
+#PALABRAS_CON_LA_LETRA_C
+#IEM_ESCUELA_NORMAL_PASTO 
+#CURSO_11_1
